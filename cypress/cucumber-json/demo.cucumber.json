@@ -1,0 +1,132 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Testing Höffner",
+    "line": 1,
+    "id": "testing-höffner",
+    "tags": [],
+    "uri": "demo.feature",
+    "elements": [
+      {
+        "id": "testing-höffner;verify-subscription-functional",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Verify subscription functional",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "a Höffner login page",
+            "result": {
+              "status": "passed",
+              "duration": 4457000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 4,
+            "name": "I open a page",
+            "result": {
+              "status": "passed",
+              "duration": 85000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I can see a newsletter subscription input",
+            "result": {
+              "status": "passed",
+              "duration": 69000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I enter my email in the input field",
+            "result": {
+              "status": "passed",
+              "duration": 1076000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I press Absenden button",
+            "result": {
+              "status": "passed",
+              "duration": 219000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I can see a confirmation message that my subscription is in progress",
+            "result": {
+              "status": "passed",
+              "duration": 1206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I receive an email asking to confirm my email",
+            "result": {
+              "status": "passed",
+              "duration": 9620000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "I open the email",
+            "result": {
+              "status": "passed",
+              "duration": 151000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "There is a link to finish registration process",
+            "result": {
+              "status": "passed",
+              "duration": 100000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "I click Jetzt Anmeldung abschließen",
+            "result": {
+              "status": "passed",
+              "duration": 1134000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "I am redirected to page confirming subscription",
+            "result": {
+              "status": "passed",
+              "duration": 4944000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
