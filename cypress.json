@@ -1,6 +1,8 @@
 {
-    "testFiles": "**/*.feature",
-    "ignoreTestFiles": ["*.ts", "*.md"],
-    "viewportWidth": 1360,
-    "viewportHeight": 790
-  }
+  "testFiles": "**/*.feature",
+  "ignoreTestFiles": ["*.ts", "*.md"],
+  "viewportWidth": 1400,
+  "viewportHeight": 1000,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 100000
+} 

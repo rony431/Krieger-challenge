@@ -22,7 +22,7 @@
             "name": "a Höffner login page",
             "result": {
               "status": "passed",
-              "duration": 4498000000
+              "duration": 6445000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "I open a page",
             "result": {
               "status": "passed",
-              "duration": 183000000
+              "duration": 105000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "I can see a newsletter subscription input",
             "result": {
               "status": "passed",
-              "duration": 154000000
+              "duration": 66000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "I enter my email in the input field",
             "result": {
               "status": "passed",
-              "duration": 1204000000
+              "duration": 1286000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "I press Absenden button",
             "result": {
               "status": "passed",
-              "duration": 307000000
+              "duration": 347000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "I can see a confirmation message that my subscription is in progress",
             "result": {
               "status": "passed",
-              "duration": 1339000000
+              "duration": 1191000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "I receive an email asking to confirm my email",
             "result": {
               "status": "passed",
-              "duration": 9958000000
+              "duration": 9721000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "I open the email",
             "result": {
               "status": "passed",
-              "duration": 182000000
+              "duration": 231000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "There is a link to finish registration process",
             "result": {
               "status": "passed",
-              "duration": 283000000
+              "duration": 156000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "I click Jetzt Anmeldung abschließen",
             "result": {
               "status": "passed",
-              "duration": 1448000000
+              "duration": 1419000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "I am redirected to page confirming subscription",
             "result": {
               "status": "passed",
-              "duration": 5291000000
+              "duration": 7211000000
             }
           }
         ]
